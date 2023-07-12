@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+โปรเจคอันนี้
+ลองเล่นๆ
+https://cadthai.com/Content/MAAS/demo-scroll/build/index.html
+
+ใช้ 
+https://react-nice-scroll-docs.vercel.app/sequence แทนแหละ
+
+https://github.com/Pom-Veerawat/my-magic-scroll
+
 ## Available Scripts
 
 In the project directory, you can run:
